@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero .carousel-item::before {
   content: '';
-  background-color: rgba(13, 30, 45, 0.6);
+  background-color: rgba(61, 76, 126, 0.6); 
   position: absolute;
   height: 100%;
   width: 100%;
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #hero .carousel-inner .carousel-item {
-  transition-property: opacity;
+  transition-property: opacity; */
   background-position: center top;
 }
 
